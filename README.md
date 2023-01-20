@@ -16,3 +16,4 @@ The goal of this project is to create a independent, clear and concise visual re
 - And a comparison against other major cities to give the viewer some bearing
 
 The dashboard I built was made in Microsoft PowerBI.
+11.1 Is the most current version.
