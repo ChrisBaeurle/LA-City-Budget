@@ -17,4 +17,4 @@ The goal of this project is to create a independent, clear and concise visual re
 
 The dashboard I built was made in Microsoft PowerBI.
 
-**11.1 Is the most current version.**
+**LA Payroll Data Analysis_ver_11.1 (reduced size) is the most current version.**
