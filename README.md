@@ -1,4 +1,4 @@
-# LA-City-Budget
+# Los Angeles City Budget Review (As of November 2022)
 
 ## Indroduction and Problem
 The city of Los Angeles has a **$11.8 Billion** fiscal year 22'-23' budget.
