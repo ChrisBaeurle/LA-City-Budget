@@ -1,6 +1,9 @@
-# Los Angeles City Budget Review (As of November 2022)
+![](Images/Taxes.png)
 
-## Indroduction and Problem
+# Los Angeles City Budget Review (As of November 2022)
+By Chris Baeurle
+
+## Overview
 The city of Los Angeles has a **$11.8 Billion** fiscal year 22'-23' budget.
 
 As Californians pay some of the highest taxes in the U.S., where exactly are our high tax dollars going? Is this data easily presentable to the public?
@@ -15,6 +18,11 @@ The goal of this project is to create a independent, clear and concise visual re
 + By position
 + Comparison against other major cities (to provide the viewer some bearing)
 
-The dashboard I built was made in Microsoft PowerBI.
-
+## Data Analysis and Presentation
+Microsoft Power BI
+<img src=".png" width="200" />
 **LA Payroll Data Analysis_ver_11.1 (reduced size) is the most current version.**
+
+## Tech Stack
+* Excel
+* Power BI
