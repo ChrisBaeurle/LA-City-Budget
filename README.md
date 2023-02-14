@@ -19,15 +19,13 @@ The goal of this project is to create a independent, clear and concise visual re
 + Comparison against other major cities (to provide the viewer some bearing)
 
 ## Data Analysis and Presentation
-Microsoft Power BI <br />
+Microsoft Power BI - **LA Payroll Data Analysis_ver_11.1 (reduced size) is the most current version.** <br />
 
 <img src="https://github.com/ChrisBaeurle/LA-City-Budget/blob/main/Images/Screenshot%20_1.png" width="200" /> <br />
 
 <img src="https://github.com/ChrisBaeurle/LA-City-Budget/blob/main/Images/Screenshot_2.png" width="200" /> <br />
 
 <img src="https://github.com/ChrisBaeurle/LA-City-Budget/blob/main/Images/Screenshot_3.png" width="200" /> <br />
-
-**LA Payroll Data Analysis_ver_11.1 (reduced size) is the most current version.**
 
 ## Tech Stack
 * Excel
