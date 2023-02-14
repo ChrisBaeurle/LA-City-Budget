@@ -1,4 +1,4 @@
-![](Images/tax-icon-15129.png)
+![](Images/tax-icon.jpg)
 
 # Los Angeles City Budget Review (As of November 2022)
 By Chris Baeurle
