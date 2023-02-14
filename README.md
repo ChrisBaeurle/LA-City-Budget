@@ -1,4 +1,4 @@
-![](Images/Taxes.png)
+![](Images/Funnel (Transparent).png)
 
 # Los Angeles City Budget Review (As of November 2022)
 By Chris Baeurle
@@ -20,7 +20,12 @@ The goal of this project is to create a independent, clear and concise visual re
 
 ## Data Analysis and Presentation
 Microsoft Power BI
-<img src=".png" width="200" />
+<img src="https://github.com/ChrisBaeurle/LA-City-Budget/blob/main/Images/Screenshot%20_1.png" width="200" />
+
+<img src="https://github.com/ChrisBaeurle/LA-City-Budget/blob/main/Images/Screenshot%20_2.png" width="200" />
+
+<img src="https://github.com/ChrisBaeurle/LA-City-Budget/blob/main/Images/Screenshot%20_2.png" width="200" />
+
 **LA Payroll Data Analysis_ver_11.1 (reduced size) is the most current version.**
 
 ## Tech Stack
